@@ -50,7 +50,7 @@ To install this to-do list on your local machine, follow these steps:
 ![image](https://user-images.githubusercontent.com/123034061/221291005-da522b43-e896-4b96-993f-6f9c5a7d9773.png)
 
  
-5. Once this has finished installing, you can start the game by running the following  in the command line - **"npm start"**.
+5. Once this has finished installing, you can start the app by running the following  in the command line - **"npm start"**.
 6. This will usually automatically open a web browser and launch the program. However, you can open it yourself if you go to "http://localhost:3000" in a browser. 
 
 
