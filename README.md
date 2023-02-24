@@ -47,7 +47,7 @@ To install this to-do list on your local machine, follow these steps:
 ![image](https://user-images.githubusercontent.com/123034061/219879611-b9d689f4-0fba-47f6-a150-2818526d0640.png)
 
 4. Once in the command line, install the required dependencies by running the following  "npm install"
-![image](https://user-images.githubusercontent.com/123034061/220336042-9f81c2c8-0cda-40a9-893b-73ce0e603ebd.png)
+![image](https://user-images.githubusercontent.com/123034061/221291005-da522b43-e896-4b96-993f-6f9c5a7d9773.png)
 
  
 5. Once this has finished installing, you can start the game by running the following  in the command line - **"npm start"**.
