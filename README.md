@@ -25,7 +25,7 @@ This project was created using the following technologies:
 
 
 ## How to use: <a name="how-to"/>
-The program starts with an initial monetary value of £1000.00. The user is able to perform n=any of the following actions:
+The program starts with an initial monetary value of £1000.00. The user is able to perform any of the following actions:
 - Deposit funds : By inputting a value into the input field and clicking the deposit button.
 - Withdraw funds: By inputting a value into the input field and clicking the withdraw button.
 - Add interest: By clicking the "Interest" button (Which will add 5% to the account balance.
