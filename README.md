@@ -9,8 +9,7 @@ A simple finance calculator that I created using React.js and CSS.
 4. [How to Install](#how-to-install)
 5. [Credits](#credits)
 
-![image](https://user-images.githubusercontent.com/123034061/221286794-5d7b10ee-5d7a-4c1f-98af-a92aba034919.png)
-
+![image](https://user-images.githubusercontent.com/123034061/221290534-9b98a467-b454-4892-a974-8fc18635b182.png)
 
 ## Description: <a name="Description"/>
 
@@ -26,13 +25,13 @@ This project was created using the following technologies:
 
 
 ##How to use: <a name="how-to"/>
-THe program starts with an initial monetary value of £1000.00. The user is able to perform n=any of the following actions:
-- Deposit funds : By inputing a value into the input field and clicking the deposit button.
+The program starts with an initial monetary value of £1000.00. The user is able to perform n=any of the following actions:
+- Deposit funds : By inputting a value into the input field and clicking the deposit button.
 - Withdraw funds: By inputting a value into the input field and clicking the withdraw button.
 - Add interest: By clicking the "Interest" button (Which will add 5% to the account balance.
 - Add charges: By clicking the "Charges" button (Which will deduct 15% from the account balance).
 
-**Note: there is defensive programming in place to stop the account balance from dropping below zero. So the user will not be able to withdraw more than the account balance.**
+**Note: there is defensive programming in place to stop the account balance from dropping below zero. So, the user will not be able to withdraw more than the account balance.**
 
 
 
