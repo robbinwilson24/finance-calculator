@@ -52,7 +52,6 @@ To install this to-do list on your local machine, follow these steps:
  
 5. Once this has finished installing, you can start the game by running the following  in the command line - **"npm start"**.
 6. This will usually automatically open a web browser and launch the program. However, you can open it yourself if you go to "http://localhost:3000" in a browser. 
-## Usage
 
 
 
