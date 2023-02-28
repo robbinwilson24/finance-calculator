@@ -16,7 +16,6 @@ A simple finance calculator that I created using React.js and CSS.
 A simple finance calculator web application that I created with React.js and CSS.  I used Redux to manage the program state. 
 I created this to showcase my ability to use React.js, to demonstrate how I used Redux to manage the program state and to demonstrate my ability to create attractively styled projects using CSS. 
 
-
 ## Technologies Used <a name="technologies"/>
 This project was created using the following technologies:
    - React.js
